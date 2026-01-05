@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Freshlife-project/static/css/main.bce7d2ca.css",
-    "main.js": "/Freshlife-project/static/js/main.6ee397da.js",
+    "main.js": "/Freshlife-project/static/js/main.03bd4d32.js",
     "static/js/453.488cd7a7.chunk.js": "/Freshlife-project/static/js/453.488cd7a7.chunk.js",
     "static/media/Logo.png": "/Freshlife-project/static/media/Logo.506c8ed5d7b525d9d921.png",
     "index.html": "/Freshlife-project/index.html",
     "main.bce7d2ca.css.map": "/Freshlife-project/static/css/main.bce7d2ca.css.map",
-    "main.6ee397da.js.map": "/Freshlife-project/static/js/main.6ee397da.js.map",
+    "main.03bd4d32.js.map": "/Freshlife-project/static/js/main.03bd4d32.js.map",
     "453.488cd7a7.chunk.js.map": "/Freshlife-project/static/js/453.488cd7a7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bce7d2ca.css",
-    "static/js/main.6ee397da.js"
+    "static/js/main.03bd4d32.js"
   ]
 }
